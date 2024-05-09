@@ -9,5 +9,5 @@
 
 # 👩🏻‍💻 My Stats
 ![camilacirne's Stats](https://github-readme-stats.vercel.app/api?username=camilacirne&theme=synthwave&show_icons=true&hide_border=true&count_private=true) <br>
-![camilacirne's Streak](https://github-readme-streak-stats.herokuapp.com/?user=camilacirne&theme=synthwave&hide_border=true)
+![camilacirne's Streak](https://github-readme-streak-stats.herokuapp.com/?user=camilacirne&theme=synthwave&hide_border=true) <br>
 ![camilacirne's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camilacirne&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
