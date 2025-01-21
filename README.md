@@ -18,7 +18,7 @@
   
 [![My Skills](https://skillicons.dev/icons?i=c,java,swift,python,js,html,css)](https://skillicons.dev) 
  
-  <img width="48%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=camilacirne&theme=synthwave&hide_border=true&icon_color=e2e9ec&background=0000" width="400"> <br>
+<!--  <img width="48%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=camilacirne&theme=synthwave&hide_border=true&icon_color=e2e9ec&background=0000" width="400"> <br> **/ -->
 
  
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E5289E&height=120&section=footer"/>
