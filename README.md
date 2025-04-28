@@ -16,7 +16,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilacirne&layout=compact&hide_border=true&title_color=e2e9ec&text_color=FFF&bg_color=0d1117">
 
   
-[![My Skills](https://skillicons.dev/icons?i=c,java,swift,python,js,html,css)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=c,java,swift,python,js,html,css,typescript)](https://skillicons.dev) 
  
 <!--  <img width="48%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=camilacirne&theme=synthwave&hide_border=true&icon_color=e2e9ec&background=0000" width="400"> <br> **/ -->
 
